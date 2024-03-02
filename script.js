@@ -2,9 +2,9 @@
    
  
     var images = [
-      "image/background4.jpg",
-      "image/background2.jpg",
-      "image/background3.jpg",
+      "background4.jpg",
+      "background2.jpg",
+      "background3.jpg",
     ];
     var currentIndex = 0;
     var bgImage = document.querySelector(".bg-image");
